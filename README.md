@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This project was created under direction of Epicodus to practice how to add cascading elements and Id's. 
 
 ## Setup/Installation Requirements
 
